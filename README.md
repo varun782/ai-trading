@@ -10,7 +10,7 @@ The project demonstrates the research workflow:
 
 **Live Demo:** https://ai-trading-research-assistant.vercel.app/
 
-**GitHub Repository:** https://github.com/Swaraj234/ai-trading-research-assistant
+
 
 **Backend API:** https://ai-trading-research-assistant.onrender.com/
 
@@ -624,22 +624,4 @@ Key areas I learned and practiced:
 
 ---
 
-## 👨‍💻 Author
 
-**Swaraj Deshmukh**
-
-GitHub:
-
-https://github.com/Swaraj234
-
-Project:
-
-https://github.com/Swaraj234/ai-trading-research-assistant
-
----
-
-## ⚠️ Disclaimer
-
-This project is an educational prototype and is not financial advice.
-
-The TEST stage uses simulated data. The displayed results are not real historical market performance and should not be used to make investment or trading decisions.
